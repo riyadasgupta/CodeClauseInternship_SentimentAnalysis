@@ -1,5 +1,6 @@
 # CodeClauseInternship_SentimentAnalysis
 *Created a sentiment analysis tool that determines the sentiment (positive, negative, neutral) of a given text*
+
 --> Sentiment analysis, also known as opinion mining, is a natural language processing (NLP) technique that involves the use of algorithms to determine the sentiment expressed in a piece of text. The goal is to identify whether the overall tone of the text is positive, negative, or neutral. This analysis can be applied to various forms of text, such as product reviews, social media posts, customer feedback, and more.
 
 --> The procedural framework of sentiment analysis involves the following key stages:
